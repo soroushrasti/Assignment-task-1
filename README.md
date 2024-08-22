@@ -31,5 +31,3 @@ print(cache.get(1))       # returns -1 (not found)
 print(cache.get(3))       # returns 3
 print(cache.get(4))       # returns 4
 ```
-
-![image](https://github.com/user-attachments/assets/18dfa336-307e-470a-8f9b-2825b15d7041)
